@@ -1,2 +1,3 @@
-# wp-config
-A stripped down WP config
+#### wp-config
+
+> A stripped down WP config
