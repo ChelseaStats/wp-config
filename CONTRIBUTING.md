@@ -7,7 +7,7 @@ The following guidelines for contribution should be followed if you want to subm
 ### How to prepare
 
 * You need a [GitHub account](https://github.com/signup/free)
-* Submit an [issue ticket](https://github.com/ChelseaStats/wp-config/issues) for your issue if there is not one already.
+* Submit an [issue ticket](https://github.com/ChelseaStats/Documentation/issues) for your issue if there is not one already.
 	* Describe the issue and include steps to reproduce if it's a bug.
 	* Ensure to mention the earliest version that you know is affected.
 
@@ -66,6 +66,17 @@ Feature requests are welcome. But take a moment to find out whether your idea
 fits with the scope and aims of the project. It's up to *you* to make a strong
 case to convince the project's developers of the merits of this feature. Please
 provide as much detail and context as possible.
+
+
+## Making Trivial Changes
+
+### Typos
+
+Please raise an issue for any typos on the site with a link to the offending page. start the first line of an issue with '(sp)' and include a url to the page in question. Language differences (e.g defense vs defence) won't be accepted.
+
+### Documentation
+
+For changes of a trivial nature to comments and documentation, start the first line of an issue with '(doc)' 
 
 
 ## Additional Resources
